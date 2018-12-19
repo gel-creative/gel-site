@@ -14,7 +14,16 @@ const IndexPage = () => (
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <ul>
+      <li><Link to="/about/">Go to About Page</Link></li>
+      <li><Link to="/contact/">Go to Contact Page</Link></li>
+      <li><Link to="/portfolio/">Go to portfolio Page</Link></li>
+      <li><Link to="/bbia/">Go to bbia Page</Link></li>
+      <li><Link to="/craft-beer/">Go to craft-beer Page</Link></li>
+      <li><Link to="/heritage-estate/">Go to heritage-estate Page</Link></li>
+      <li><Link to="/kenmore/">Go to kenmore Page</Link></li>
+      <li><Link to="/mortgage-wellness/">Go to mortgage-wellness Page</Link></li>
+    </ul>
   </Layout>
 )
 
