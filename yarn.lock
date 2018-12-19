@@ -1227,9 +1227,9 @@ apollo-link@^1.2.2:
     zen-observable-ts "^0.8.13"
 
 apollo-utilities@^1.0.0, apollo-utilities@^1.0.1:
-  version "1.0.26"
-  resolved "https://registry.yarnpkg.com/apollo-utilities/-/apollo-utilities-1.0.26.tgz#589c66bf4d16223531351cf667a230c787def1da"
-  integrity sha512-URw7o3phymliqYCYatcird2YRPUU2eWCNvip64U9gQrX56mEfK4m99yBIDCMTpmcvOFsKLii1sIEZsHIs/bvnw==
+  version "1.0.27"
+  resolved "https://registry.yarnpkg.com/apollo-utilities/-/apollo-utilities-1.0.27.tgz#77c550f9086552376eca3a48e234a1466b5b057e"
+  integrity sha512-nzrMQ89JMpNmYnVGJ4t8zN75gQbql27UDhlxNi+3OModp0Masx5g+fQmQJ5B4w2dpRuYOsdwFLmj3lQbwOKV1Q==
   dependencies:
     fast-json-stable-stringify "^2.0.0"
 
@@ -11298,9 +11298,9 @@ terser-webpack-plugin@^1.0.2, terser-webpack-plugin@^1.1.0:
     worker-farm "^1.5.2"
 
 terser@^3.8.1:
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-3.11.0.tgz#60782893e1f4d6788acc696351f40636d0e37af0"
-  integrity sha512-5iLMdhEPIq3zFWskpmbzmKwMQixKmTYwY3Ox9pjtSklBLnHiuQ0GKJLhL1HSYtyffHM3/lDIFBnb82m9D7ewwQ==
+  version "3.12.0"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-3.12.0.tgz#b1a81d6d28b8b88f5073321341a1d69c20feb7d8"
+  integrity sha512-Jx2XedVgku7U1eLvEsl8UD9wa9AT6sjcjAu1h1cggY7jzRZuyLM0cWsKIZNXNltM5jmUNOprFxQoIf5Y9/1vOA==
   dependencies:
     commander "~2.17.1"
     source-map "~0.6.1"
